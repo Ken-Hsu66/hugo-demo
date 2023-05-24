@@ -10,17 +10,11 @@ params:
 
     socialIcons: # optional
         - name: "github"
-          url: "https://github.com/sawhney17"
-        - name: "youtube"
-          url: "https://www.youtube.com/channel/UCjMJeOCEAG2XFtd9JvZwomw"
+          url: "https://github.com/Ken-Hsu66"
         - name: "twitter"
-          url: "https://twitter.com/aryansawhney17"
-        - name: "kofi" 
-          url: "https://buymeacoffee.com/sawhney17"
-        - name: "rss"
-          url: "https://aryansawhney.com/index.xml"
+          url: "https://twitter.com/Yuanshuo99"
     ShowReadingTime: true
-    author: "One Nice Person"
+    author: "HsuKen"
 
 outputs:
     home:
