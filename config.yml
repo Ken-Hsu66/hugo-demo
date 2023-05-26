@@ -6,7 +6,7 @@ theme: "PaperMod"
 params:
     homeInfoParams:
         Title: Hey there 👋
-        Content: Feel free to look around
+        Content: Feel free to look around.
 
     socialIcons: # optional
         - name: "twitter"
