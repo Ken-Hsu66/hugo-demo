@@ -1,11 +1,11 @@
 baseURL: "https://flourishing-malasada-fc6748.netlify.app/"
 languageCode: "zh-TW"
-title: "許原碩"
+title: "HsuKen"
 theme: "PaperMod"
 
 params:
     homeInfoParams:
-        Title: Hello 我是許原碩 👋
+        Title: Hello Ken 👋
         Content: This is a sample hugo template
 
     socialIcons: # optional
