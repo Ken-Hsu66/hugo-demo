@@ -1,7 +1,7 @@
 baseURL: "https://hsuken.netlify.app/"
 languageCode: "zh-TW"
 title: "HsuKen"
-theme: "PaperMod"
+theme: "Logseq Schrödinger"
 
 params:
     homeInfoParams:
